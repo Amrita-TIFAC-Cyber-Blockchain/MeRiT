@@ -1,9 +1,9 @@
-# Media Tracking Platform to Tackle Online Piracy ![](https://img.shields.io/badge/-Live-brightgreen)
+# Hyper MeRiT : Media Tracking Platform to Tackle Online Piracy ![](https://img.shields.io/badge/-Live-brightgreen)
 ![](https://img.shields.io/badge/Challenge-Hyperledger_2022-green) ![](https://img.shields.io/badge/Focus-Hyperledger_Fabric-yellow) ![](https://img.shields.io/badge/Focus-Media_Priacy-yellow) 
 
 ### Project Name :  Media Tracking Platform to Tackle Online Piracy
 
-#### Innovation Tagline : 
+#### Innovation Tagline : Distributed Crawler based Tracker 
 
 #### Project Keywords:	hyperledger-fabric, web-crawler, dark-web-crawler, piracy, digital-rights-management
 
@@ -14,12 +14,11 @@
 
 ### Project Description  
 
-A distributed system with a blockchain ledger maintaining information on the copyrighted content provided by the legal owner of such content that could be accessed by our crawler as a sample to identify content similar to it on unauthorized websites. The crawler will index the URL and IP address of the platform hosting the content illegally. It notifies the concerned owner of the content, who verifies whether the content belongs to them. Post verification, the illegal distributor or the content can be taken down from the internet.
-
+A Distributed Ledger System maintaining and monitoring the information on the copyrighted content provided by the legal owners. Such copyrighted content that could be accessed by our crawler to identify same or similar content on unauthorized websites. The crawler will index the URL and IP address of the platform hosting the content illegally. The system notifies the concerned owner of the copyright infringment, who verifies whether the content belongs to them. 
 
 ### Describe the solution	
 
-Our solution combines web crawlers, deep web crawlers, and a distributed ledger technology like blockchain using Hyperledger Fabric. The ledger contributors are mainly the owners of the copyrighted content. According to their necessity, they can contribute a node to our blockchain and withdraw the node from the blockchain network.
+Our solution combines web crawlers, deep web crawlers, a distributed ledger technology and machine learning to address the issue on media piracy. The ledger contributors are mainly the owners of the copyrighted content. According to their necessity, they can contribute a node to our blockchain and withdraw the node from the blockchain network.
 
 The crawler searches the internet for any similar content or link to the content whose information has been immutably stored on the blockchain. If found, the information is indexed to our system. It sends out a notification to the copyright content owner, who then verifies it and approves forwarding the crawled information to law enforcement or any other agency responsible for taking down the content.
 
@@ -44,7 +43,7 @@ During the prototype phase, a web crawler and a distributed blockchain ledger ba
 
 Yes, our solution would have social and Governance Impact.
 
-- **Social** because today most of us generate enoromous amount of data like picutres, videos, social media posts which is subject to intellectual property rights. The present day social media platforms like YouTube, Instagram and Facebook are generating new Business and Economic model. Our system would help in identifyin media piracy which would impact all these social media content creators economically.
+- **Social and Economical** because today most of us generate enoromous amount of data like picutres, videos, social media posts which is subject to intellectual property rights. The present day social media platforms like YouTube, Instagram and Facebook are generating new Business and Economic model. Our system would help in identifyin media piracy which would impact all these social media content creators economically.
 
 #### Did you socialise your project or interact with anyone in the community? What notes did they give? Please tag them.	
 
@@ -53,9 +52,31 @@ We have not discussed this with any of the Hyperledger Community members. We wou
 
 #### Project Plan:	What does project growth plan look like? What timelines are you looking at?	
 
+#### Q2/2022
+ - Implementation of Web Crawler (Surface and Dark Web)
+ - Setting up the Hyperledger Fabric Network Locally
+ - Implementation of Chaincode 
+ - Implementation of Machine Learning Algorithm
+ - **Prototype Submission**
+
+#### Q3/2022
+ -  Hosting the Project on the Cloud Platform - Chainstack
+ -  Adoption to Legal compliance like GPDR
+ -  Improvements to Chaincode based on Copyright Laws
+
+#### Q4/2022
+ - Testing of the Project
+
 #### How do you plan industry adoption?	
 
+ - MeRiT services shall be offered under different categories say Free, Premium - Silver, Premium - Gold, Premium - Platinum
+ - MeRiT would let users integrate their custom ledger to our system for secure tracking
+ - MeRiT could be integrate to existing social media platform for automatic identification of infrige contents
+
 #### How will the project be sustained? What are the skills that need to be hired?	
+
+ - MeRiT will sustain because of the sheer need of Copyright management support to individuals without need to involve third-party and low-fee service
+ - MeRiT could be integrate to existing social media platform for automatic identification of infrige contents
 
 - **Skills Required**
   - Blockchain Developer
