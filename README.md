@@ -65,13 +65,14 @@ No, We have not discussed this with any of the Hyperledger Community members. We
 
 #### Q2/2022
  - Implementation of Web Crawler (Surface and Dark Web)
- - Setting up the Hyperledger Fabric Network Locally
+ - Setting up the Hyperledger Fabric Network Locally <img src="Assets/images/Hyperledger-Fabric.png" width="100">
+ - Implementation of Bloom Filter
  - Implementation of Chaincode 
- - Implementation of Machine Learning Algorithm
+ - Implementation of AWS - Rekognition <img src="Assets/images/aws_rekognition.png" width="100">
  - **Prototype Submission**
 
 #### Q3/2022
- -  Hosting the Project on the Cloud Platform - Chainstack
+ -  Hosting the Project on the Cloud Platform <img src="Assets/images/Chainstack.png" width="130">
  -  Adoption to Legal compliance like GPDR
  -  Improvements to Chaincode based on Copyright Laws
 
@@ -79,10 +80,19 @@ No, We have not discussed this with any of the Hyperledger Community members. We
  - Testing of the Project
  - Launch the Service to Public Use
 
+<p align="center">
+ <img src="Assets/images/Timeline.png" >
+</p>
+
+
 #### How do you plan industry adoption?	
 <hr>
 
- - MeRiT services shall be offered under different categories say Free, Premium - Silver, Premium - Gold, Premium - Platinum
+ - MeRiT services shall be offered under different tiers
+   - Free
+   - Premium - Silver
+   - Premium - Gold
+   - Premium - Platinum
  - MeRiT would let users integrate their custom ledger to our system for secure tracking
  - MeRiT could be integrate to existing social media platform for automatic identification of infrige contents
 
