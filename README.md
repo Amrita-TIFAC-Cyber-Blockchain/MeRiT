@@ -113,3 +113,11 @@ No, We have not discussed this with any of the Hyperledger Community members. We
 <hr>
 
 Available in: [Hyperledger Labs](https://labs.hyperledger.org/labs/media-tracking-platform-to-tackle-online-piracy.html)
+
+# SDG 
+
+<p align="center">
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G9.png" width="200"/> 
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G10.png" width="200"/> 
+    <img src="https://github.com/ramagururadhakrishnan/UN-SDG/blob/main/Assets/G16.png" width="200"/> 
+</p>   
