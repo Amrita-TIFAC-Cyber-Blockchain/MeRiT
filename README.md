@@ -1,6 +1,10 @@
 # MeRiT : Media Tracking Platform to Tackle Online Piracy ![](https://img.shields.io/badge/-Live-brightgreen)
 ![](https://img.shields.io/badge/Challenge-Hyperledger_2022-green) ![](https://img.shields.io/badge/Focus-Hyperledger_Fabric-yellow) ![](https://img.shields.io/badge/Focus-Media_Priacy-yellow) 
 
+<p align="center">
+  <img src="FrontEnd/images/logo.png" width="450">
+</p> 
+
 ### Project Name :  MeRiT : Media Tracking Platform to Tackle Online Piracy
 
 #### Innovation Tagline : Distributed Ledger Powered Intelligent Crawler based Media Tracker for Copyright Infringement 
