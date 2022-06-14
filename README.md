@@ -1,5 +1,5 @@
 # MeRiT : Media Tracking Platform to Tackle Online Piracy ![](https://img.shields.io/badge/-Live-brightgreen)
-![](https://img.shields.io/badge/Challenge-Hyperledger_2022-green) ![](https://img.shields.io/badge/Focus-Hyperledger_Fabric-yellow) ![](https://img.shields.io/badge/Focus-Media_Priacy-yellow) 
+![](https://img.shields.io/badge/Challenge-Hyperledger_2022-green) ![](https://img.shields.io/badge/Focus-Hyperledger_Fabric-yellow) ![](https://img.shields.io/badge/Focus-Media_Priacy-yellow) <br/> ![](https://img.shields.io/badge/Ideate_Challenge-A_Minus-purple) ![](https://img.shields.io/badge/Prototype_Challenge-3.4-purple) 
 
 <p align="center">
   <img src="FrontEnd/images/logo.png" width="450">
